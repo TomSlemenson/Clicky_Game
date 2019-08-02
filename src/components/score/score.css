@@ -1,4 +1,4 @@
-div p{
+div span{
     font-size: 20px;
     padding: 10px;
     border-radius: 10px;
@@ -7,8 +7,9 @@ div p{
     text-align: center;
     margin:auto;
     color:white;
-    margin-bottom: 10px;
+    margin-bottom: 100px;
     margin-top:-10px;
+    margin-right: 2px;
     font-family: 'Permanent Marker', cursive;
 
 }

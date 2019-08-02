@@ -4,7 +4,7 @@ import "./score.css";
 const score = props => {
     return (
         <div>
-            <p>Your score: {props.counter}</p>
+            <p><span>Your score: {props.counter}</span><span>Top Score: {props.topScore}</span></p>
         </div>
     )
 }
